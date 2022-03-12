@@ -1,2 +1,1 @@
-# clase_34
-jjjjjjjjj
+Plantilla del código C34
